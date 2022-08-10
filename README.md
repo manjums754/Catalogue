@@ -1,10 +1,16 @@
 # Catalogue
 
-#Install packages.
-#yarn install
+Install packages.
+```bash
+yarn install
+```
 
-#Run the project for Android
-#yarn run android
+To run the project for Android.
+```bash
+yarn run android
+```
 
-#Run the project for iOS
-#yarn run ios
+To run the project for iOS.
+```bash
+yarn run ios
+```
